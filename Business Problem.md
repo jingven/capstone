@@ -1,0 +1,1 @@
+I would build a Machine Learning model to predict a accident severity, by some attributes of a particular accident what happens suddenly.
